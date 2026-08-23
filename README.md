@@ -1,7 +1,5 @@
 <div align="center">
 
-<sub>JuniorPdrz / README.md</sub>
-
 <br><br>
 
 <sub>SOFTWARE DEVELOPER · CARTAGENA, CO</sub>
@@ -31,5 +29,3 @@ Estudiante de Ingeniería de Sistemas construyendo sistemas backend — multi-te
 <p align="center"><sub>También: Thymeleaf · JWT · Spring Security · Docker Compose</sub></p>
 
 ---
-
-<p align="center"><sub>⚡ construyendo, un commit a la vez</sub></p>
