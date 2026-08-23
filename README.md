@@ -2,7 +2,7 @@
 
 <br><br>
 
-<sub>SOFTWARE DEVELOPER · CARTAGENA, CO</sub>
+<sub>SOFTWARE DEVELOPER · CARTAGENA, COLOMBIA</sub>
 
 # Libardo Junior Pedroza Yepez
 
@@ -10,11 +10,11 @@
 
 ---
 
-**Backend Developer · Cartagena, CO 🇨🇴**
+**Backend Developer · Cartagena, Colombia**
 
-Estudiante de Ingeniería de Sistemas construyendo sistemas backend — multi-tenant, arquitectura limpia. Java · Spring Boot · MySQL.
+Estudiante de Ingeniería de Sistemas construyendo sistemas backend — arquitectura limpia. Java · Spring Boot · MySQL.
 
-[Portafolio](https://juniorpdrz.github.io) · [LinkedIn](#) · [Email](#) · [GitHub](https://github.com/JuniorPdrz)
+[Portafolio](https://github.com/JuniorPdrz/Mi-portafolio) · [LinkedIn](#) · [Email](libardopedroza02@gmail.com) · [GitHub](https://github.com/JuniorPdrz)
 
 ---
 
