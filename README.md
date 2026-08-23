@@ -32,14 +32,4 @@ Estudiante de Ingeniería de Sistemas construyendo sistemas backend — multi-te
 
 ---
 
-## Projects
-
-| Proyecto | Qué es | Stack |
-|---|---|---|
-| **finanzas-backend** | SaaS colaborativo de monitoreo financiero. Arquitectura limpia, JWT + Spring Security, Docker Compose. | Java 21 · Spring Boot · MySQL |
-| **StockForge** | Sistema de gestión de inventario escalable, de pequeña empresa a multi-almacén (event-sourcing, multi-tenancy). | Java · Spring Boot · MySQL |
-| **BarberShop Elite** | App de agendamiento de citas para barberías. | Spring Boot · MySQL · Thymeleaf |
-
----
-
 <p align="center"><sub>⚡ construyendo, un commit a la vez</sub></p>
