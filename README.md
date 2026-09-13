@@ -1,43 +1,53 @@
 <div align="center">
 
-<sub>SOFTWARE DEVELOPER · CARTAGENA, CO</sub>
-
-# Libardo Junior Pedroza Yepez
-
-**Estudiante de Ingeniería de Sistemas**
-Construyendo mi portafolio y mis habilidades técnicas, proyecto a proyecto.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B7280,100:374151&height=180&section=header&text=Libardo%20Junior%20Pedroza%20Yepez&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-JuniorPdrz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuniorPdrz)
-[![Email](https://img.shields.io/badge/Email-libardopedroza02%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:libardopedroza02@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6B7280&center=true&vCenter=true&width=560&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Construyo+backends+limpios+y+escalables;Java+%C2%B7+Spring+Boot+%C2%B7+MySQL+%C2%B7+Docker" alt="Typing SVG" />
+
+<br><br>
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-4B5563?style=for-the-badge&logo=googlechrome&logoColor=white)](https://juniorpdrz.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B5563?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-4B5563?style=for-the-badge&logo=gmail&logoColor=white)](mailto:libardopedroza02@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuniorPdrz)
+
+</div>
 
 <br>
 
-### 🛠️ Stack
+### 🧑‍💻| Sobre mí
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+Estudiante de Ingeniería de Sistemas. Me interesa construir sistemas usando una arquitectura limpia, multi-tenant, y buenas prácticas desde el diseño. Sigo ampliando mi stack de forma constante mientras armo proyectos para mi portafolio.
 
 <br>
 
----
+### 🛠️| Stack
 
-### 📁 Projects
+<div align="center">
 
-| Proyecto | Qué es | Stack |
-|:---|:---|:---|
-| _Próximamente_ | Aquí irán mis primeros proyectos publicados | — |
+<img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql,docker,git&theme=dark" />
 
----
+<br><br>
+
+<img src="https://img.shields.io/badge/Thymeleaf-4B5563?style=flat-square&logo=thymeleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-4B5563?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-4B5563?style=flat-square&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker_Compose-4B5563?style=flat-square&logo=docker&logoColor=white"/>
+
+</div>
 
 <br>
 
-![Snake animation](https://raw.githubusercontent.com/JuniorPdrz/JuniorPdrz/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/JuniorPdrz/JuniorPdrz/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+<br>
+
+<div align="center">
 
 </div>
