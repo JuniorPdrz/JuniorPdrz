@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6B7280&center=true&vCenter=true&width=560&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Construyo+backends+limpios+y+escalables;Java+%C2%B7+Spring+Boot+%C2%B7+MySQL+%C2%B7+Docker" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6B7280&center=true&vCenter=true&width=560&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Aprendo+haciendo%2C+mejoro+repitiendo.;Java+%C2%B7+Spring+Boot+%C2%B7+MySQL+%C2%B7+Docker" alt="Typing SVG" />
 
 <br><br>
 
