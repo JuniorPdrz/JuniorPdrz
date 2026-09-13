@@ -9,7 +9,7 @@
 <br><br>
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-4B5563?style=for-the-badge&logo=googlechrome&logoColor=white)](https://juniorpdrz.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B5563?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B5563?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=1)](#)
 [![Email](https://img.shields.io/badge/Email-4B5563?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=libardopedroza02@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuniorPdrz)
 
