@@ -29,7 +29,7 @@ Estudiante de Ingeniería de Sistemas. Me interesa construir sistemas usando una
 
 <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,mysql,docker,git&theme=dark" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Thymeleaf-4B5563?style=flat-square&logo=thymeleaf&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-4B5563?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
